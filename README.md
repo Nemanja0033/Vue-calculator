@@ -1,2 +1,3 @@
- vue-calculator
- Mini project that  helps me to learn Vue
+<h1>Vue Calculator</h1>
+
+<p>Simple project  while practicing Vue.js</p>
